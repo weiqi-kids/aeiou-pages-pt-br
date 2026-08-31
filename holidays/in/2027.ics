@@ -1,0 +1,406 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//aeiou.now//Annual holiday calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Índia 2027
+BEGIN:VEVENT
+UID:holiday-in-2027-new-years-day@aeiou.now
+DTSTAMP:20270101T000000Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:Ano Novo
+DESCRIPTION:Status: discretionary\nDate status: confirmed\nSources: https://cag.gov.in/defence/new-delhi/en/page-defence-new-delhi-holidaylist https://dfe.gov.in/uploads/documents/list-of-restricted-holiidays-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-in-2027-magha-bihu-pongal@aeiou.now
+DTSTAMP:20270115T000000Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:Magh Bihu / Pongal
+DESCRIPTION:Status: discretionary\nDate status: estimated\nSources: https://cag.gov.in/defence/new-delhi/en/page-defence-new-delhi-holidaylist https://dfe.gov.in/uploads/documents/list-of-restricted-holiidays-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-in-2027-makar-sankranti@aeiou.now
+DTSTAMP:20270115T000000Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:Makar Sankranti
+DESCRIPTION:Status: discretionary\nDate status: estimated\nSources: https://cag.gov.in/defence/new-delhi/en/page-defence-new-delhi-holidaylist https://dfe.gov.in/uploads/documents/list-of-restricted-holiidays-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-in-2027-republic-day@aeiou.now
+DTSTAMP:20270126T000000Z
+DTSTART;VALUE=DATE:20270126
+DTEND;VALUE=DATE:20270127
+SUMMARY:Dia da República da Índia
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://cag.gov.in/defence/new-delhi/en/page-defence-new-delhi-holidaylist https://dfe.gov.in/uploads/documents/list-of-gazetted-holidays-2026.pdf https://cag.gov.in/uploads/media/List-of-Gazetted-Holidays-and-Restricted-Holidays-2026-069492ddf80fa39-36385303.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-in-2027-basant-panchami@aeiou.now
+DTSTAMP:20270211T000000Z
+DTSTART;VALUE=DATE:20270211
+DTEND;VALUE=DATE:20270212
+SUMMARY:Basant Panchami
+DESCRIPTION:Status: discretionary\nDate status: estimated\nSources: https://cag.gov.in/defence/new-delhi/en/page-defence-new-delhi-holidaylist https://dfe.gov.in/uploads/documents/list-of-restricted-holiidays-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-in-2027-shivaji-jayanti@aeiou.now
+DTSTAMP:20270219T000000Z
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270220
+SUMMARY:Nascimento de Shivaji
+DESCRIPTION:Status: discretionary\nDate status: confirmed\nSources: https://cag.gov.in/defence/new-delhi/en/page-defence-new-delhi-holidaylist https://dfe.gov.in/uploads/documents/list-of-restricted-holiidays-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-in-2027-guru-ravidas-jayanti@aeiou.now
+DTSTAMP:20270220T000000Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Nascimento de Guru Ravidas
+DESCRIPTION:Status: discretionary\nDate status: estimated\nSources: https://cag.gov.in/defence/new-delhi/en/page-defence-new-delhi-holidaylist https://dfe.gov.in/uploads/documents/list-of-restricted-holiidays-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-in-2027-swami-dayananda-saraswati-jayanti@aeiou.now
+DTSTAMP:20270302T000000Z
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270303
+SUMMARY:Nascimento de Swami Dayananda Saraswati
+DESCRIPTION:Status: discretionary\nDate status: estimated\nSources: https://cag.gov.in/defence/new-delhi/en/page-defence-new-delhi-holidaylist https://dfe.gov.in/uploads/documents/list-of-restricted-holiidays-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-in-2027-jamat-ul-vida@aeiou.now
+DTSTAMP:20270305T000000Z
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270306
+SUMMARY:Última Sexta-feira do Ramadã
+DESCRIPTION:Status: discretionary\nDate status: estimated\nSources: https://cag.gov.in/defence/new-delhi/en/page-defence-new-delhi-holidaylist https://dfe.gov.in/uploads/documents/list-of-restricted-holiidays-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-in-2027-maha-shivratri@aeiou.now
+DTSTAMP:20270306T000000Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:Maha Shivratri
+DESCRIPTION:Status: discretionary\nDate status: estimated\nSources: https://cag.gov.in/defence/new-delhi/en/page-defence-new-delhi-holidaylist https://dfe.gov.in/uploads/documents/list-of-restricted-holiidays-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-in-2027-id-ul-fitr@aeiou.now
+DTSTAMP:20270310T000000Z
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270311
+SUMMARY:Eid al-Fitr
+DESCRIPTION:Status: statutory\nDate status: estimated\nSources: https://cag.gov.in/defence/new-delhi/en/page-defence-new-delhi-holidaylist https://dfe.gov.in/uploads/documents/list-of-gazetted-holidays-2026.pdf https://cag.gov.in/uploads/media/List-of-Gazetted-Holidays-and-Restricted-Holidays-2026-069492ddf80fa39-36385303.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-in-2027-dolyatra@aeiou.now
+DTSTAMP:20270322T000000Z
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270323
+SUMMARY:Dolyatra
+DESCRIPTION:Status: discretionary\nDate status: estimated\nSources: https://cag.gov.in/defence/new-delhi/en/page-defence-new-delhi-holidaylist https://dfe.gov.in/uploads/documents/list-of-restricted-holiidays-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-in-2027-holika-dahan@aeiou.now
+DTSTAMP:20270322T000000Z
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270323
+SUMMARY:Holika Dahan
+DESCRIPTION:Status: discretionary\nDate status: estimated\nSources: https://cag.gov.in/defence/new-delhi/en/page-defence-new-delhi-holidaylist https://dfe.gov.in/uploads/documents/list-of-restricted-holiidays-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-in-2027-holi@aeiou.now
+DTSTAMP:20270323T000000Z
+DTSTART;VALUE=DATE:20270323
+DTEND;VALUE=DATE:20270324
+SUMMARY:Holi
+DESCRIPTION:Status: statutory\nDate status: estimated\nSources: https://cag.gov.in/defence/new-delhi/en/page-defence-new-delhi-holidaylist https://dfe.gov.in/uploads/documents/list-of-gazetted-holidays-2026.pdf https://cag.gov.in/uploads/media/List-of-Gazetted-Holidays-and-Restricted-Holidays-2026-069492ddf80fa39-36385303.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-in-2027-good-friday@aeiou.now
+DTSTAMP:20270326T000000Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+SUMMARY:Sexta-feira Santa
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://cag.gov.in/defence/new-delhi/en/page-defence-new-delhi-holidaylist https://dfe.gov.in/uploads/documents/list-of-gazetted-holidays-2026.pdf https://cag.gov.in/uploads/media/List-of-Gazetted-Holidays-and-Restricted-Holidays-2026-069492ddf80fa39-36385303.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-in-2027-easter-sunday@aeiou.now
+DTSTAMP:20270328T000000Z
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+SUMMARY:Domingo de Páscoa
+DESCRIPTION:Status: discretionary\nDate status: confirmed\nSources: https://cag.gov.in/defence/new-delhi/en/page-defence-new-delhi-holidaylist https://dfe.gov.in/uploads/documents/list-of-restricted-holiidays-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-in-2027-chaitra-sukladi@aeiou.now
+DTSTAMP:20270407T000000Z
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+SUMMARY:Chaitra Sukladi / Gudi Padwa / Ugadi / Cheti Chand
+DESCRIPTION:Status: discretionary\nDate status: estimated\nSources: https://cag.gov.in/defence/new-delhi/en/page-defence-new-delhi-holidaylist https://dfe.gov.in/uploads/documents/list-of-restricted-holiidays-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-in-2027-ram-navami@aeiou.now
+DTSTAMP:20270415T000000Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:Rama Navami
+DESCRIPTION:Status: statutory\nDate status: estimated\nSources: https://cag.gov.in/defence/new-delhi/en/page-defence-new-delhi-holidaylist https://dfe.gov.in/uploads/documents/list-of-gazetted-holidays-2026.pdf https://cag.gov.in/uploads/media/List-of-Gazetted-Holidays-and-Restricted-Holidays-2026-069492ddf80fa39-36385303.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-in-2027-vaisakhi@aeiou.now
+DTSTAMP:20270415T000000Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:Vaisakhi / Vishu / Ano-Novo Tâmil
+DESCRIPTION:Status: discretionary\nDate status: estimated\nSources: https://cag.gov.in/defence/new-delhi/en/page-defence-new-delhi-holidaylist https://dfe.gov.in/uploads/documents/list-of-restricted-holiidays-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-in-2027-bengali-new-year@aeiou.now
+DTSTAMP:20270416T000000Z
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270417
+SUMMARY:Ano-Novo Bengali / Bahag Bihu
+DESCRIPTION:Status: discretionary\nDate status: estimated\nSources: https://cag.gov.in/defence/new-delhi/en/page-defence-new-delhi-holidaylist https://dfe.gov.in/uploads/documents/list-of-restricted-holiidays-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-in-2027-mahavir-jayanti@aeiou.now
+DTSTAMP:20270419T000000Z
+DTSTART;VALUE=DATE:20270419
+DTEND;VALUE=DATE:20270420
+SUMMARY:Mahavir Jayanti
+DESCRIPTION:Status: statutory\nDate status: estimated\nSources: https://cag.gov.in/defence/new-delhi/en/page-defence-new-delhi-holidaylist https://dfe.gov.in/uploads/documents/list-of-gazetted-holidays-2026.pdf https://cag.gov.in/uploads/media/List-of-Gazetted-Holidays-and-Restricted-Holidays-2026-069492ddf80fa39-36385303.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-in-2027-rabindranath-tagore-birthday@aeiou.now
+DTSTAMP:20270510T000000Z
+DTSTART;VALUE=DATE:20270510
+DTEND;VALUE=DATE:20270511
+SUMMARY:Nascimento de Rabindranath Tagore
+DESCRIPTION:Status: discretionary\nDate status: estimated\nSources: https://cag.gov.in/defence/new-delhi/en/page-defence-new-delhi-holidaylist https://dfe.gov.in/uploads/documents/list-of-restricted-holiidays-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-in-2027-id-ul-zuha@aeiou.now
+DTSTAMP:20270517T000000Z
+DTSTART;VALUE=DATE:20270517
+DTEND;VALUE=DATE:20270518
+SUMMARY:Eid al-Adha
+DESCRIPTION:Status: statutory\nDate status: estimated\nSources: https://cag.gov.in/defence/new-delhi/en/page-defence-new-delhi-holidaylist https://dfe.gov.in/uploads/documents/list-of-gazetted-holidays-2026.pdf https://cag.gov.in/uploads/media/List-of-Gazetted-Holidays-and-Restricted-Holidays-2026-069492ddf80fa39-36385303.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-in-2027-budha-purnima@aeiou.now
+DTSTAMP:20270520T000000Z
+DTSTART;VALUE=DATE:20270520
+DTEND;VALUE=DATE:20270521
+SUMMARY:Buda Purnima
+DESCRIPTION:Status: statutory\nDate status: estimated\nSources: https://cag.gov.in/defence/new-delhi/en/page-defence-new-delhi-holidaylist https://dfe.gov.in/uploads/documents/list-of-gazetted-holidays-2026.pdf https://cag.gov.in/uploads/media/List-of-Gazetted-Holidays-and-Restricted-Holidays-2026-069492ddf80fa39-36385303.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-in-2027-muharram@aeiou.now
+DTSTAMP:20270616T000000Z
+DTSTART;VALUE=DATE:20270616
+DTEND;VALUE=DATE:20270617
+SUMMARY:Muharram (Ashura)
+DESCRIPTION:Status: statutory\nDate status: estimated\nSources: https://cag.gov.in/defence/new-delhi/en/page-defence-new-delhi-holidaylist https://dfe.gov.in/uploads/documents/list-of-gazetted-holidays-2026.pdf https://cag.gov.in/uploads/media/List-of-Gazetted-Holidays-and-Restricted-Holidays-2026-069492ddf80fa39-36385303.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-in-2027-rath-yatra@aeiou.now
+DTSTAMP:20270705T000000Z
+DTSTART;VALUE=DATE:20270705
+DTEND;VALUE=DATE:20270706
+SUMMARY:Rath Yatra
+DESCRIPTION:Status: discretionary\nDate status: estimated\nSources: https://cag.gov.in/defence/new-delhi/en/page-defence-new-delhi-holidaylist https://dfe.gov.in/uploads/documents/list-of-restricted-holiidays-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-in-2027-independence-day@aeiou.now
+DTSTAMP:20270815T000000Z
+DTSTART;VALUE=DATE:20270815
+DTEND;VALUE=DATE:20270816
+SUMMARY:Dia da Independência da Índia
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://cag.gov.in/defence/new-delhi/en/page-defence-new-delhi-holidaylist https://dfe.gov.in/uploads/documents/list-of-gazetted-holidays-2026.pdf https://cag.gov.in/uploads/media/List-of-Gazetted-Holidays-and-Restricted-Holidays-2026-069492ddf80fa39-36385303.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-in-2027-parsi-new-year@aeiou.now
+DTSTAMP:20270815T000000Z
+DTSTART;VALUE=DATE:20270815
+DTEND;VALUE=DATE:20270816
+SUMMARY:Ano-Novo Parse / Nauroz
+DESCRIPTION:Status: discretionary\nDate status: estimated\nSources: https://cag.gov.in/defence/new-delhi/en/page-defence-new-delhi-holidaylist https://dfe.gov.in/uploads/documents/list-of-restricted-holiidays-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-in-2027-milad-un-nabi@aeiou.now
+DTSTAMP:20270815T000000Z
+DTSTART;VALUE=DATE:20270815
+DTEND;VALUE=DATE:20270816
+SUMMARY:Mawlid (Nascimento do Profeta)
+DESCRIPTION:Status: statutory\nDate status: estimated\nSources: https://cag.gov.in/defence/new-delhi/en/page-defence-new-delhi-holidaylist https://dfe.gov.in/uploads/documents/list-of-gazetted-holidays-2026.pdf https://cag.gov.in/uploads/media/List-of-Gazetted-Holidays-and-Restricted-Holidays-2026-069492ddf80fa39-36385303.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-in-2027-raksha-bandhan@aeiou.now
+DTSTAMP:20270817T000000Z
+DTSTART;VALUE=DATE:20270817
+DTEND;VALUE=DATE:20270818
+SUMMARY:Raksha Bandhan
+DESCRIPTION:Status: discretionary\nDate status: estimated\nSources: https://cag.gov.in/defence/new-delhi/en/page-defence-new-delhi-holidaylist https://dfe.gov.in/uploads/documents/list-of-restricted-holiidays-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-in-2027-janmashtami@aeiou.now
+DTSTAMP:20270824T000000Z
+DTSTART;VALUE=DATE:20270824
+DTEND;VALUE=DATE:20270825
+SUMMARY:Janmashtami
+DESCRIPTION:Status: statutory\nDate status: estimated\nSources: https://cag.gov.in/defence/new-delhi/en/page-defence-new-delhi-holidaylist https://dfe.gov.in/uploads/documents/list-of-gazetted-holidays-2026.pdf https://cag.gov.in/uploads/media/List-of-Gazetted-Holidays-and-Restricted-Holidays-2026-069492ddf80fa39-36385303.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-in-2027-ganesh-chaturthi@aeiou.now
+DTSTAMP:20270904T000000Z
+DTSTART;VALUE=DATE:20270904
+DTEND;VALUE=DATE:20270905
+SUMMARY:Ganesh Chaturthi
+DESCRIPTION:Status: discretionary\nDate status: estimated\nSources: https://cag.gov.in/defence/new-delhi/en/page-defence-new-delhi-holidaylist https://dfe.gov.in/uploads/documents/list-of-restricted-holiidays-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-in-2027-onam@aeiou.now
+DTSTAMP:20270913T000000Z
+DTSTART;VALUE=DATE:20270913
+DTEND;VALUE=DATE:20270914
+SUMMARY:Onam
+DESCRIPTION:Status: discretionary\nDate status: estimated\nSources: https://cag.gov.in/defence/new-delhi/en/page-defence-new-delhi-holidaylist https://dfe.gov.in/uploads/documents/list-of-restricted-holiidays-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-in-2027-gandhi-jayanti@aeiou.now
+DTSTAMP:20271002T000000Z
+DTSTART;VALUE=DATE:20271002
+DTEND;VALUE=DATE:20271003
+SUMMARY:Aniversário de Mahatma Gandhi
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://cag.gov.in/defence/new-delhi/en/page-defence-new-delhi-holidaylist https://dfe.gov.in/uploads/documents/list-of-gazetted-holidays-2026.pdf https://cag.gov.in/uploads/media/List-of-Gazetted-Holidays-and-Restricted-Holidays-2026-069492ddf80fa39-36385303.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-in-2027-dussehra-saptami@aeiou.now
+DTSTAMP:20271006T000000Z
+DTSTART;VALUE=DATE:20271006
+DTEND;VALUE=DATE:20271007
+SUMMARY:Dussehra (Saptami)
+DESCRIPTION:Status: discretionary\nDate status: estimated\nSources: https://cag.gov.in/defence/new-delhi/en/page-defence-new-delhi-holidaylist https://dfe.gov.in/uploads/documents/list-of-restricted-holiidays-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-in-2027-dussehra-mahashtami@aeiou.now
+DTSTAMP:20271008T000000Z
+DTSTART;VALUE=DATE:20271008
+DTEND;VALUE=DATE:20271009
+SUMMARY:Dussehra (Mahashtami)
+DESCRIPTION:Status: discretionary\nDate status: estimated\nSources: https://cag.gov.in/defence/new-delhi/en/page-defence-new-delhi-holidaylist https://dfe.gov.in/uploads/documents/list-of-restricted-holiidays-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-in-2027-dussehra@aeiou.now
+DTSTAMP:20271009T000000Z
+DTSTART;VALUE=DATE:20271009
+DTEND;VALUE=DATE:20271010
+SUMMARY:Dussehra
+DESCRIPTION:Status: statutory\nDate status: estimated\nSources: https://cag.gov.in/defence/new-delhi/en/page-defence-new-delhi-holidaylist https://dfe.gov.in/uploads/documents/list-of-gazetted-holidays-2026.pdf https://cag.gov.in/uploads/media/List-of-Gazetted-Holidays-and-Restricted-Holidays-2026-069492ddf80fa39-36385303.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-in-2027-dussehra-mahanavami@aeiou.now
+DTSTAMP:20271009T000000Z
+DTSTART;VALUE=DATE:20271009
+DTEND;VALUE=DATE:20271010
+SUMMARY:Dussehra (Mahanavami)
+DESCRIPTION:Status: discretionary\nDate status: estimated\nSources: https://cag.gov.in/defence/new-delhi/en/page-defence-new-delhi-holidaylist https://dfe.gov.in/uploads/documents/list-of-restricted-holiidays-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-in-2027-valmiki-jayanti@aeiou.now
+DTSTAMP:20271015T000000Z
+DTSTART;VALUE=DATE:20271015
+DTEND;VALUE=DATE:20271016
+SUMMARY:Nascimento de Maharishi Valmiki
+DESCRIPTION:Status: discretionary\nDate status: estimated\nSources: https://cag.gov.in/defence/new-delhi/en/page-defence-new-delhi-holidaylist https://dfe.gov.in/uploads/documents/list-of-restricted-holiidays-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-in-2027-karwa-chauth@aeiou.now
+DTSTAMP:20271019T000000Z
+DTSTART;VALUE=DATE:20271019
+DTEND;VALUE=DATE:20271020
+SUMMARY:Karwa Chauth
+DESCRIPTION:Status: discretionary\nDate status: estimated\nSources: https://cag.gov.in/defence/new-delhi/en/page-defence-new-delhi-holidaylist https://dfe.gov.in/uploads/documents/list-of-restricted-holiidays-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-in-2027-naraka-chaturdashi@aeiou.now
+DTSTAMP:20271028T000000Z
+DTSTART;VALUE=DATE:20271028
+DTEND;VALUE=DATE:20271029
+SUMMARY:Naraka Chaturdasi
+DESCRIPTION:Status: discretionary\nDate status: estimated\nSources: https://cag.gov.in/defence/new-delhi/en/page-defence-new-delhi-holidaylist https://dfe.gov.in/uploads/documents/list-of-restricted-holiidays-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-in-2027-diwali@aeiou.now
+DTSTAMP:20271029T000000Z
+DTSTART;VALUE=DATE:20271029
+DTEND;VALUE=DATE:20271030
+SUMMARY:Diwali
+DESCRIPTION:Status: statutory\nDate status: estimated\nSources: https://cag.gov.in/defence/new-delhi/en/page-defence-new-delhi-holidaylist https://dfe.gov.in/uploads/documents/list-of-gazetted-holidays-2026.pdf https://cag.gov.in/uploads/media/List-of-Gazetted-Holidays-and-Restricted-Holidays-2026-069492ddf80fa39-36385303.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-in-2027-govardhan-puja@aeiou.now
+DTSTAMP:20271030T000000Z
+DTSTART;VALUE=DATE:20271030
+DTEND;VALUE=DATE:20271031
+SUMMARY:Govardhan Puja
+DESCRIPTION:Status: discretionary\nDate status: estimated\nSources: https://cag.gov.in/defence/new-delhi/en/page-defence-new-delhi-holidaylist https://dfe.gov.in/uploads/documents/list-of-restricted-holiidays-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-in-2027-bhai-duj@aeiou.now
+DTSTAMP:20271031T000000Z
+DTSTART;VALUE=DATE:20271031
+DTEND;VALUE=DATE:20271101
+SUMMARY:Bhai Duj
+DESCRIPTION:Status: discretionary\nDate status: estimated\nSources: https://cag.gov.in/defence/new-delhi/en/page-defence-new-delhi-holidaylist https://dfe.gov.in/uploads/documents/list-of-restricted-holiidays-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-in-2027-chhath-puja@aeiou.now
+DTSTAMP:20271104T000000Z
+DTSTART;VALUE=DATE:20271104
+DTEND;VALUE=DATE:20271105
+SUMMARY:Chhath Puja
+DESCRIPTION:Status: discretionary\nDate status: estimated\nSources: https://cag.gov.in/defence/new-delhi/en/page-defence-new-delhi-holidaylist https://dfe.gov.in/uploads/documents/list-of-restricted-holiidays-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-in-2027-guru-nanak-jayanti@aeiou.now
+DTSTAMP:20271114T000000Z
+DTSTART;VALUE=DATE:20271114
+DTEND;VALUE=DATE:20271115
+SUMMARY:Nascimento de Guru Nanak
+DESCRIPTION:Status: statutory\nDate status: estimated\nSources: https://cag.gov.in/defence/new-delhi/en/page-defence-new-delhi-holidaylist https://dfe.gov.in/uploads/documents/list-of-gazetted-holidays-2026.pdf https://cag.gov.in/uploads/media/List-of-Gazetted-Holidays-and-Restricted-Holidays-2026-069492ddf80fa39-36385303.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-in-2027-guru-teg-bahadur-martyrdom-day@aeiou.now
+DTSTAMP:20271124T000000Z
+DTSTART;VALUE=DATE:20271124
+DTEND;VALUE=DATE:20271125
+SUMMARY:Martírio de Guru Teg Bahadur
+DESCRIPTION:Status: discretionary\nDate status: confirmed\nSources: https://cag.gov.in/defence/new-delhi/en/page-defence-new-delhi-holidaylist https://dfe.gov.in/uploads/documents/list-of-restricted-holiidays-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-in-2027-hazrat-ali-birthday@aeiou.now
+DTSTAMP:20271212T000000Z
+DTSTART;VALUE=DATE:20271212
+DTEND;VALUE=DATE:20271213
+SUMMARY:Nascimento de Hazrat Ali
+DESCRIPTION:Status: discretionary\nDate status: estimated\nSources: https://cag.gov.in/defence/new-delhi/en/page-defence-new-delhi-holidaylist https://dfe.gov.in/uploads/documents/list-of-restricted-holiidays-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-in-2027-christmas-eve@aeiou.now
+DTSTAMP:20271224T000000Z
+DTSTART;VALUE=DATE:20271224
+DTEND;VALUE=DATE:20271225
+SUMMARY:Véspera de Natal
+DESCRIPTION:Status: discretionary\nDate status: confirmed\nSources: https://cag.gov.in/defence/new-delhi/en/page-defence-new-delhi-holidaylist https://dfe.gov.in/uploads/documents/list-of-restricted-holiidays-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-in-2027-christmas-day@aeiou.now
+DTSTAMP:20271225T000000Z
+DTSTART;VALUE=DATE:20271225
+DTEND;VALUE=DATE:20271226
+SUMMARY:Natal
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://cag.gov.in/defence/new-delhi/en/page-defence-new-delhi-holidaylist https://dfe.gov.in/uploads/documents/list-of-gazetted-holidays-2026.pdf https://cag.gov.in/uploads/media/List-of-Gazetted-Holidays-and-Restricted-Holidays-2026-069492ddf80fa39-36385303.pdf
+END:VEVENT
+END:VCALENDAR

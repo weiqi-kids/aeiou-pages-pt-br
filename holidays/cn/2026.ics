@@ -1,0 +1,94 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//aeiou.now//Annual holiday calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:China 2026
+BEGIN:VEVENT
+UID:holiday-cn-2026-yuandan@aeiou.now
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260104
+SUMMARY:Ano-Novo
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www.gov.cn/gongbao/2024/issue_11726/202411/content_6989774.html https://www.gov.cn/gongbao/2025/issue_12406/202511/content_7048922.html
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-cn-2026-chunjie@aeiou.now
+DTSTAMP:20260215T000000Z
+DTSTART;VALUE=DATE:20260215
+DTEND;VALUE=DATE:20260224
+SUMMARY:Ano-Novo Chinês
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www.gov.cn/gongbao/2024/issue_11726/202411/content_6989774.html https://www.gov.cn/gongbao/2025/issue_12406/202511/content_7048922.html https://www.hko.gov.hk/tc/gts/time/calendar/pdf/files/2027.pdf https://www.hko.gov.hk/tc/gts/time/calendar/pdf/files/2028.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-cn-2026-funvjie@aeiou.now
+DTSTAMP:20260308T000000Z
+DTSTART;VALUE=DATE:20260308
+DTEND;VALUE=DATE:20260309
+SUMMARY:Dia Internacional da Mulher
+DESCRIPTION:Status: discretionary\nDate status: confirmed\nSources: https://www.gov.cn/gongbao/2024/issue_11726/202411/content_6989774.html
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-cn-2026-qingmingjie@aeiou.now
+DTSTAMP:20260404T000000Z
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260407
+SUMMARY:Festival Qingming
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www.gov.cn/gongbao/2024/issue_11726/202411/content_6989774.html https://www.gov.cn/gongbao/2025/issue_12406/202511/content_7048922.html https://www.hko.gov.hk/tc/gts/time/calendar/pdf/files/2027.pdf https://www.hko.gov.hk/tc/gts/time/calendar/pdf/files/2028.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-cn-2026-laodongjie@aeiou.now
+DTSTAMP:20260501T000000Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260506
+SUMMARY:Dia do Trabalho
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www.gov.cn/gongbao/2024/issue_11726/202411/content_6989774.html https://www.gov.cn/gongbao/2025/issue_12406/202511/content_7048922.html
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-cn-2026-qingnianjie@aeiou.now
+DTSTAMP:20260504T000000Z
+DTSTART;VALUE=DATE:20260504
+DTEND;VALUE=DATE:20260505
+SUMMARY:Dia da Juventude
+DESCRIPTION:Status: discretionary\nDate status: confirmed\nSources: https://www.gov.cn/gongbao/2024/issue_11726/202411/content_6989774.html
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-cn-2026-ertongjie@aeiou.now
+DTSTAMP:20260601T000000Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260602
+SUMMARY:Dia das Crianças
+DESCRIPTION:Status: discretionary\nDate status: confirmed\nSources: https://www.gov.cn/gongbao/2024/issue_11726/202411/content_6989774.html
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-cn-2026-duanwujie@aeiou.now
+DTSTAMP:20260619T000000Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260622
+SUMMARY:Festival do Barco-Dragão
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www.gov.cn/gongbao/2024/issue_11726/202411/content_6989774.html https://www.gov.cn/gongbao/2025/issue_12406/202511/content_7048922.html https://www.hko.gov.hk/tc/gts/time/calendar/pdf/files/2027.pdf https://www.hko.gov.hk/tc/gts/time/calendar/pdf/files/2028.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-cn-2026-jianjunjie@aeiou.now
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:Dia do Exército
+DESCRIPTION:Status: discretionary\nDate status: confirmed\nSources: https://www.gov.cn/gongbao/2024/issue_11726/202411/content_6989774.html
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-cn-2026-zhongqiujie@aeiou.now
+DTSTAMP:20260925T000000Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260928
+SUMMARY:Festival do Meio-Outono
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www.gov.cn/gongbao/2024/issue_11726/202411/content_6989774.html https://www.gov.cn/gongbao/2025/issue_12406/202511/content_7048922.html https://www.hko.gov.hk/tc/gts/time/calendar/pdf/files/2027.pdf https://www.hko.gov.hk/tc/gts/time/calendar/pdf/files/2028.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-cn-2026-guoqingjie@aeiou.now
+DTSTAMP:20261001T000000Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261008
+SUMMARY:Dia Nacional
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www.gov.cn/gongbao/2024/issue_11726/202411/content_6989774.html https://www.gov.cn/gongbao/2025/issue_12406/202511/content_7048922.html
+END:VEVENT
+END:VCALENDAR
