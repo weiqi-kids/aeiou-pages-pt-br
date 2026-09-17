@@ -2,8 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//aeiou.now//Annual holiday calendar//EN
 CALSCALE:GREGORIAN
-X-WR-CALNAME:China 2026
-X-WR-CALDESC:O China tem 7 feriados nacionais em 2026.
+X-WR-CALNAME:China
+X-WR-CALDESC:O China tem 7 feriados nacionais em 2026. O China tem 7 feriad
+ os nacionais em 2027. O China tem 7 feriados nacionais em 2028.
 REFRESH-INTERVAL;VALUE=DURATION:P1W
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
