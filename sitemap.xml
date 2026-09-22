@@ -320,13 +320,13 @@
   </url>
   <url>
     <loc>https://br.aeiou.now/rankings/72h/</loc>
-    <lastmod>2026-09-22T00:19:18.334Z</lastmod>
+    <lastmod>2026-09-22T03:17:04.754Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://br.aeiou.now/rankings/7d/</loc>
-    <lastmod>2026-09-22T00:19:18.334Z</lastmod>
+    <lastmod>2026-09-22T03:17:04.754Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -338,7 +338,7 @@
   </url>
   <url>
     <loc>https://br.aeiou.now/rankings/3m/</loc>
-    <lastmod>2026-09-22T00:19:18.334Z</lastmod>
+    <lastmod>2026-09-22T03:17:04.754Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -2904,7 +2904,7 @@
   </url>
   <url>
     <loc>https://br.aeiou.now/topic/environment-days/</loc>
-    <lastmod>2026-09-19T00:26:47.089Z</lastmod>
+    <lastmod>2026-09-22T03:17:04.754Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2914,7 +2914,7 @@
   </url>
   <url>
     <loc>https://br.aeiou.now/topic/environment-days/br/</loc>
-    <lastmod>2026-09-19T00:26:47.089Z</lastmod>
+    <lastmod>2026-09-22T03:17:04.754Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
