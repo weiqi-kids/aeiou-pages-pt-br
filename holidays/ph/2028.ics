@@ -1,0 +1,89 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//aeiou.now//Annual holiday calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Filipinas 2028
+X-WR-CALDESC:O Filipinas tem 12 feriados nacionais em 2028.
+REFRESH-INTERVAL;VALUE=DURATION:P1W
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:holiday-ph-2028-new-years-day@aeiou.now
+DTSTAMP:20280101T000000Z
+DTSTART;VALUE=DATE:20280101
+DTEND;VALUE=DATE:20280102
+SUMMARY:Ano Novo
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://br.aeiou.now/holidays/ph/2028/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2028-maundy-thursday@aeiou.now
+DTSTAMP:20280413T000000Z
+DTSTART;VALUE=DATE:20280413
+DTEND;VALUE=DATE:20280414
+SUMMARY:Quinta-feira Santa
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://br.aeiou.now/holidays/ph/2028/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2028-good-friday@aeiou.now
+DTSTAMP:20280414T000000Z
+DTSTART;VALUE=DATE:20280414
+DTEND;VALUE=DATE:20280415
+SUMMARY:Sexta-feira Santa
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://br.aeiou.now/holidays/ph/2028/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2028-national-heroes-day@aeiou.now
+DTSTAMP:20280828T000000Z
+DTSTART;VALUE=DATE:20280828
+DTEND;VALUE=DATE:20280829
+SUMMARY:Dia dos Heróis Nacionais
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://br.aeiou.now/holidays/ph/2028/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2028-all-saints-day@aeiou.now
+DTSTAMP:20281101T000000Z
+DTSTART;VALUE=DATE:20281101
+DTEND;VALUE=DATE:20281102
+SUMMARY:Dia de Todos os Santos
+DESCRIPTION:Status: discretionary\nDate status: confirmed\nSources: https:/
+ /www.pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://br.aeiou.now/holidays/ph/2028/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2028-immaculate-conception@aeiou.now
+DTSTAMP:20281208T000000Z
+DTSTART;VALUE=DATE:20281208
+DTEND;VALUE=DATE:20281209
+SUMMARY:Imaculada Conceição
+DESCRIPTION:Status: discretionary\nDate status: confirmed\nSources: https:/
+ /www.pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://br.aeiou.now/holidays/ph/2028/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2028-christmas-day@aeiou.now
+DTSTAMP:20281225T000000Z
+DTSTART;VALUE=DATE:20281225
+DTEND;VALUE=DATE:20281226
+SUMMARY:Natal
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://br.aeiou.now/holidays/ph/2028/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-ph-2028-last-day-of-the-year@aeiou.now
+DTSTAMP:20281231T000000Z
+DTSTART;VALUE=DATE:20281231
+DTEND;VALUE=DATE:20290101
+SUMMARY:Último dia do ano
+DESCRIPTION:Status: discretionary\nDate status: confirmed\nSources: https:/
+ /www.pna.gov.ph/articles/1258046 https://www.pna.gov.ph/articles/1283808
+URL:https://br.aeiou.now/holidays/ph/2028/
+END:VEVENT
+END:VCALENDAR

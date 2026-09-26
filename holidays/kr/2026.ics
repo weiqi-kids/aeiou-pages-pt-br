@@ -1,0 +1,205 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//aeiou.now//Annual holiday calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Coreia do Sul 2026
+X-WR-CALDESC:O Coreia do Sul tem 18 feriados nacionais em 2026.
+REFRESH-INTERVAL;VALUE=DURATION:P1W
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:holiday-kr-2026-new-years-day@aeiou.now
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260102
+SUMMARY:Ano-Novo
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .law.go.kr/법령/관공서의공휴일에관한규정 https://www.kasa.go
+ .kr/prog/plcyBrf/brief/kor/sub01_01_04/view.do?plcyBrfNo=431
+URL:https://br.aeiou.now/holidays/kr/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-kr-2026-seollal@aeiou.now
+DTSTAMP:20260216T000000Z
+DTSTART;VALUE=DATE:20260216
+DTEND;VALUE=DATE:20260219
+SUMMARY:Seollal (Ano-Novo Lunar)
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .law.go.kr/법령/관공서의공휴일에관한규정 https://www.kasa.go
+ .kr/prog/plcyBrf/brief/kor/sub01_01_04/view.do?plcyBrfNo=431 https://astro
+ .kasi.re.kr/life/pageView/8
+URL:https://br.aeiou.now/holidays/kr/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-kr-2026-samiljeol@aeiou.now
+DTSTAMP:20260301T000000Z
+DTSTART;VALUE=DATE:20260301
+DTEND;VALUE=DATE:20260302
+SUMMARY:Dia do Movimento de Independência
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .law.go.kr/법령/관공서의공휴일에관한규정 https://www.law.go.
+ kr/법령/국경일에관한법률
+URL:https://br.aeiou.now/holidays/kr/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-kr-2026-substitute-2026-03-02@aeiou.now
+DTSTAMP:20260302T000000Z
+DTSTART;VALUE=DATE:20260302
+DTEND;VALUE=DATE:20260303
+SUMMARY:Feriado substituto (Dia do Movimento de Independência)
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .law.go.kr/법령/관공서의공휴일에관한규정
+URL:https://br.aeiou.now/holidays/kr/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-kr-2026-labor-day@aeiou.now
+DTSTAMP:20260501T000000Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:Dia do Trabalho
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .law.go.kr/법령/관공서의공휴일에관한규정 https://www.law.go.
+ kr/법령/공휴일에관한법률 https://www.korea.kr/news/policyNewsVie
+ w.do?newsId=148962129
+URL:https://br.aeiou.now/holidays/kr/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-kr-2026-childrens-day@aeiou.now
+DTSTAMP:20260505T000000Z
+DTSTART;VALUE=DATE:20260505
+DTEND;VALUE=DATE:20260506
+SUMMARY:Dia das Crianças
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .law.go.kr/법령/관공서의공휴일에관한규정
+URL:https://br.aeiou.now/holidays/kr/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-kr-2026-buddhas-birthday@aeiou.now
+DTSTAMP:20260524T000000Z
+DTSTART;VALUE=DATE:20260524
+DTEND;VALUE=DATE:20260525
+SUMMARY:Aniversário de Buda
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .law.go.kr/법령/관공서의공휴일에관한규정 https://www.kasa.go
+ .kr/prog/plcyBrf/brief/kor/sub01_01_04/view.do?plcyBrfNo=431 https://astro
+ .kasi.re.kr/life/pageView/8
+URL:https://br.aeiou.now/holidays/kr/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-kr-2026-substitute-2026-05-25@aeiou.now
+DTSTAMP:20260525T000000Z
+DTSTART;VALUE=DATE:20260525
+DTEND;VALUE=DATE:20260526
+SUMMARY:Feriado substituto (Aniversário de Buda)
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .law.go.kr/법령/관공서의공휴일에관한규정
+URL:https://br.aeiou.now/holidays/kr/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-kr-2026-local-election-2026-06-03@aeiou.now
+DTSTAMP:20260603T000000Z
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260604
+SUMMARY:Dia das Eleições Locais
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .law.go.kr/법령/관공서의공휴일에관한규정 https://www.law.go.
+ kr/법령/공직선거법
+URL:https://br.aeiou.now/holidays/kr/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-kr-2026-memorial-day@aeiou.now
+DTSTAMP:20260606T000000Z
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+SUMMARY:Dia da Memória
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .law.go.kr/법령/관공서의공휴일에관한규정
+URL:https://br.aeiou.now/holidays/kr/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-kr-2026-constitution-day@aeiou.now
+DTSTAMP:20260717T000000Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260718
+SUMMARY:Dia da Constituição
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .law.go.kr/법령/관공서의공휴일에관한규정 https://www.law.go.
+ kr/법령/국경일에관한법률 https://www.kasa.go.kr/prog/plcyBrf/bri
+ ef/kor/sub01_01_04/view.do?plcyBrfNo=431
+URL:https://br.aeiou.now/holidays/kr/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-kr-2026-liberation-day@aeiou.now
+DTSTAMP:20260815T000000Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+SUMMARY:Dia da Libertação
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .law.go.kr/법령/관공서의공휴일에관한규정 https://www.law.go.
+ kr/법령/국경일에관한법률
+URL:https://br.aeiou.now/holidays/kr/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-kr-2026-substitute-2026-08-17@aeiou.now
+DTSTAMP:20260817T000000Z
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260818
+SUMMARY:Feriado substituto (Dia da Libertação)
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .law.go.kr/법령/관공서의공휴일에관한규정
+URL:https://br.aeiou.now/holidays/kr/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-kr-2026-chuseok@aeiou.now
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260927
+SUMMARY:Chuseok
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .law.go.kr/법령/관공서의공휴일에관한규정 https://www.kasa.go
+ .kr/prog/plcyBrf/brief/kor/sub01_01_04/view.do?plcyBrfNo=431 https://astro
+ .kasi.re.kr/life/pageView/8
+URL:https://br.aeiou.now/holidays/kr/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-kr-2026-national-foundation-day@aeiou.now
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Dia da Fundação Nacional
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .law.go.kr/법령/관공서의공휴일에관한규정 https://www.law.go.
+ kr/법령/국경일에관한법률
+URL:https://br.aeiou.now/holidays/kr/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-kr-2026-substitute-2026-10-05@aeiou.now
+DTSTAMP:20261005T000000Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Feriado substituto (Dia da Fundação Nacional)
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .law.go.kr/법령/관공서의공휴일에관한규정
+URL:https://br.aeiou.now/holidays/kr/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-kr-2026-hangul-day@aeiou.now
+DTSTAMP:20261009T000000Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Dia do Hangul
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .law.go.kr/법령/관공서의공휴일에관한규정 https://www.law.go.
+ kr/법령/국경일에관한법률
+URL:https://br.aeiou.now/holidays/kr/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-kr-2026-christmas@aeiou.now
+DTSTAMP:20261225T000000Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:Natal
+DESCRIPTION:Status: statutory\nDate status: confirmed\nSources: https://www
+ .law.go.kr/법령/관공서의공휴일에관한규정
+URL:https://br.aeiou.now/holidays/kr/2026/
+END:VEVENT
+END:VCALENDAR
