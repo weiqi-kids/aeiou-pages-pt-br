@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://br.aeiou.now/</loc>
-    <lastmod>2026-11-09T01:01:53.224Z</lastmod>
+    <lastmod>2026-11-09T18:55:12.937Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -170,19 +170,19 @@
   </url>
   <url>
     <loc>https://br.aeiou.now/topics/today/</loc>
-    <lastmod>2026-11-03T22:38:40.849Z</lastmod>
+    <lastmod>2026-11-09T18:55:12.937Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://br.aeiou.now/topics/nearby/</loc>
-    <lastmod>2026-11-03T22:38:40.849Z</lastmod>
+    <lastmod>2026-11-09T18:55:12.937Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://br.aeiou.now/topics/events/</loc>
-    <lastmod>2026-11-03T22:38:40.849Z</lastmod>
+    <lastmod>2026-11-09T18:55:12.937Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -422,37 +422,37 @@
   </url>
   <url>
     <loc>https://br.aeiou.now/rankings/24h/</loc>
-    <lastmod>2026-11-03T22:38:40.849Z</lastmod>
+    <lastmod>2026-11-09T18:55:12.937Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://br.aeiou.now/rankings/72h/</loc>
-    <lastmod>2026-11-03T22:38:40.849Z</lastmod>
+    <lastmod>2026-11-09T18:55:12.937Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://br.aeiou.now/rankings/7d/</loc>
-    <lastmod>2026-11-03T22:38:40.849Z</lastmod>
+    <lastmod>2026-11-09T18:55:12.937Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://br.aeiou.now/rankings/1m/</loc>
-    <lastmod>2026-11-03T22:38:40.849Z</lastmod>
+    <lastmod>2026-11-09T18:55:12.937Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://br.aeiou.now/rankings/3m/</loc>
-    <lastmod>2026-11-03T22:38:40.849Z</lastmod>
+    <lastmod>2026-11-09T18:55:12.937Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://br.aeiou.now/rankings/1y/</loc>
-    <lastmod>2026-11-03T22:38:40.849Z</lastmod>
+    <lastmod>2026-11-09T18:55:12.937Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -550,7 +550,7 @@
   </url>
   <url>
     <loc>https://br.aeiou.now/topic/diwali/</loc>
-    <lastmod>2026-11-03T22:38:40.849Z</lastmod>
+    <lastmod>2026-11-09T18:55:12.937Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -560,7 +560,7 @@
   </url>
   <url>
     <loc>https://br.aeiou.now/topic/diwali/in/</loc>
-    <lastmod>2026-11-03T22:38:40.849Z</lastmod>
+    <lastmod>2026-11-09T18:55:12.937Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -676,7 +676,7 @@
   </url>
   <url>
     <loc>https://br.aeiou.now/topic/homecoming-and-reunion/</loc>
-    <lastmod>2026-09-30T19:29:49.968Z</lastmod>
+    <lastmod>2026-11-09T18:55:12.937Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -982,7 +982,7 @@
   </url>
   <url>
     <loc>https://br.aeiou.now/topic/official-languages/</loc>
-    <lastmod>2026-09-27T06:54:15.772Z</lastmod>
+    <lastmod>2026-11-09T18:55:12.937Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1028,7 +1028,7 @@
   </url>
   <url>
     <loc>https://br.aeiou.now/topic/compulsory-education/</loc>
-    <lastmod>2026-09-27T06:54:15.772Z</lastmod>
+    <lastmod>2026-11-09T18:55:12.937Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1724,7 +1724,7 @@
   </url>
   <url>
     <loc>https://br.aeiou.now/topic/entrance-exams/</loc>
-    <lastmod>2026-11-03T22:38:40.849Z</lastmod>
+    <lastmod>2026-11-09T18:55:12.937Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
